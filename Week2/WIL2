@@ -1,4 +1,27 @@
+1주차
 
+- Web 소개
+    - 주소
+        - Resource가 저장된 주소
+        - URI(Uniform Resource Identifier): 리소스를 식별하는 통일된 방식
+        - URL(Uniform Resource Location) : 프로토콜(통신규약) + DNS 주소
+        - URN(Uniform Resource Name) : 이름으로 찾기
+    
+    - DNS(Domain Name Server) 등장
+        - 길고 복합한 IP 주소를 외우거나 관리하기 힘듦
+        - IP 주소는 바뀔 수도 있음
+        - Domain Name: 사이트에 이름을 지어줌
+        - DNS: 도메인 네임을 한 곳에 저장해 둔 서버
+        
+    - 서버
+        - 자료를 나눠주기 위한 컴퓨터
+    
+    - 랜더링: HTML, CSS, JS를 재료 삼아 브라우저가 그림을 그려줌
+        - HTML: 자료(뼈대)
+        - CSS: UI(살, 옷)
+        - JavaScript: 제어체계
+        
+        
 2주차
 
 - Git?
